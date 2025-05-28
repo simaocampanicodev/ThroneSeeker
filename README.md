@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-![Throne Seeker](splash.png)
+![Throne Seeker](splashcircle.png)
 
 <div align="center">
   <a href="">
