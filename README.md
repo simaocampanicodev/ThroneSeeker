@@ -1,9 +1,8 @@
 <a id="readme-top"></a>
-![Throne Seeker](splashcircle.png)
 
 <div align="center">
-  <a href="">
-  </a>
+  <img height="350" src="https://cdn.discordapp.com/attachments/1287498270427451392/1377450236363935804/circlesplash.png?ex=68390200&is=6837b080&hm=b11d353d41129443611261b48aa522d48be193705e3d895af0ad773493993e42&"/>
+</div>
 
   <h2 align="center">Throne Seeker</h2>
 
