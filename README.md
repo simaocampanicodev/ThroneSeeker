@@ -5,8 +5,6 @@
 
 # Throne Seeker
 
-<div align="center">
-
 *Reclaim the throne, restore the kingdom's peace.*
 
 ![Last Commit](https://img.shields.io/github/last-commit/simaocampanicodev/ThroneSeeker?style=flat-square&color=blue) ![Stars](https://img.shields.io/github/stars/simaocampanicodev/ThroneSeeker?style=flat-square&color=yellow) ![Languages](https://img.shields.io/github/languages/count/simaocampanicodev/ThroneSeeker?style=flat-square&color=orange)
