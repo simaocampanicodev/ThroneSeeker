@@ -21,11 +21,15 @@
 
 <br />
 
-“Throne Seeker” is an Indie game about a wizard with a gorgeous cape trying to find the key to enter the throne room and defeat the king, saving the village’s population.
+**Throne Seeker** is a story-rich indie adventure where you step into the boots of a mysterious wizard draped in a flowing, arcane cape—on a quest not just for a throne, but for truth.
 <br />
-As stated before, your goal is to reach the throne room by fighting enemies, prepared to face difficult journeys in this castle, opening chests to earn money to buy items in the shot and become stronger. But wait, maybe there’s a story behind the shop keeper… He was talking about a Potion of Love?...
+ The kingdom lies fractured. A once-benevolent king now rules with corruption and fear, his castle locked behind enchanted gates. To unlock the path to the throne room and free the village from his grasp, you must journey far beyond its borders.
 
+Explore a beautifully diverse world filled with enchanted biomes—from haunted swamps to frozen peaks and ancient ruins. Scattered across these lands stand elemental towers, each guarded by powerful mini-bosses who test your strength, evolve your abilities, and shape your destiny. Only by mastering these trials can you hope to confront what lies at the heart of the kingdom.
+
+Loot mysterious chests, collect gold, and upgrade your magics and gears and purchase powerful relics.
 <br />
+**Your choices. Your journey. Your throne to reclaim.**
 <br />
 
 ![Throne Seeker](Assets/Sprites/Readme/tab.png)
