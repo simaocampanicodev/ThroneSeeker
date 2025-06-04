@@ -15,7 +15,7 @@
   </p>
 </div>
 
-![Throne Seeker](tab.png)
+![Throne Seeker](Assets/Sprites/Readme/tab.png)
 
 ## About The Project
 
@@ -28,11 +28,11 @@ As stated before, your goal is to reach the throne room by fighting enemies, pre
 <br />
 <br />
 
-![Throne Seeker](tab.png)
+![Throne Seeker](Assets/Sprites/Readme/tab.png)
 
-![ThroneSeeker Screenshot](mainmenu.png)
+![ThroneSeeker Screenshot](Assets/Sprites/Readme/mainmenu.png)
 
-![ThroneSeeker Screenshot](loading.png)
+![ThroneSeeker Screenshot](Assets/Sprites/Readme/loading.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -44,7 +44,7 @@ WASD - Character movement
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![Throne Seeker](tab.png)
+![Throne Seeker](Assets/Sprites/Readme/tab.png)
 
 ## Contributors
 
@@ -60,7 +60,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![Throne Seeker](tab.png)
+![Throne Seeker](Assets/Sprites/Readme/tab.png)
 
 ## Contact
 
@@ -71,4 +71,4 @@ Itch.io: <a href="https://rafaelsmartins.itch.io/throne-seeker"><strong>https://
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![Throne Seeker](tab.png)
+![Throne Seeker](Assets/Sprites/Readme/tab.png)
