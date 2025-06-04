@@ -14,15 +14,8 @@
 ### Built with the tools and technologies:
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-</div>
-
-</div>
-  <p align="center">
-    <br />
-    <br />
-    <a href="https://github.com/simaocampanicodev/ThroneSeeker"><strong>Explore the docs »</strong></a>
-    <br />
-  </p>
+<br />
+  <a href="https://github.com/simaocampanicodev/ThroneSeeker"><strong>Explore the docs »</strong></a>
 </div>
 
 ![Throne Seeker](Assets/Sprites/Readme/tab.png)
