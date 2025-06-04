@@ -2,12 +2,22 @@
 
 <div align="center">
   <img height="350" src="https://cdn.discordapp.com/attachments/1287498270427451392/1377450236363935804/circlesplash.png?ex=68390200&is=6837b080&hm=b11d353d41129443611261b48aa522d48be193705e3d895af0ad773493993e42&"/>
+
+# Throne Seeker
+
+<div align="center">
+
+*Reclaim the throne, restore the kingdom's peace.*
+
+![Last Commit](https://img.shields.io/github/last-commit/simaocampanicodev/ThroneSeeker?style=flat-square&color=blue) ![Stars](https://img.shields.io/github/stars/simaocampanicodev/ThroneSeeker?style=flat-square&color=yellow) ![Languages](https://img.shields.io/github/languages/count/simaocampanicodev/ThroneSeeker?style=flat-square&color=orange)
+
+### Built with the tools and technologies:
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 </div>
 
-  <h2 align="center">Throne Seeker</h2>
-
+</div>
   <p align="center">
-    A 2D top-down pixel art game about a wizard exploring the world and trying to save a village!
     <br />
     <br />
     <a href="https://github.com/simaocampanicodev/ThroneSeeker"><strong>Explore the docs »</strong></a>
@@ -23,13 +33,14 @@
 
 **Throne Seeker** is a story-rich indie adventure where you step into the boots of a mysterious wizard draped in a flowing, arcane cape—on a quest not just for a throne, but for truth.
 <br />
- The kingdom lies fractured. A once-benevolent king now rules with corruption and fear, his castle locked behind enchanted gates. To unlock the path to the throne room and free the village from his grasp, you must journey far beyond its borders.
+The kingdom lies fractured. A once-benevolent king now rules with corruption and fear, his castle locked behind enchanted gates. To unlock the path to the throne room and free the village from his grasp, you must journey far beyond its borders.
 
 Explore a beautifully diverse world filled with enchanted biomes—from haunted swamps to frozen peaks and ancient ruins. Scattered across these lands stand elemental towers, each guarded by powerful mini-bosses who test your strength, evolve your abilities, and shape your destiny. Only by mastering these trials can you hope to confront what lies at the heart of the kingdom.
 
 Loot mysterious chests, collect gold, and upgrade your magics and gears and purchase powerful relics.
 <br />
 **Your choices. Your journey. Your throne to reclaim.**
+
 <br />
 
 ![Throne Seeker](Assets/Sprites/Readme/tab.png)
