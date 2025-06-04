@@ -36,6 +36,8 @@ As stated before, your goal is to reach the throne room by fighting enemies, pre
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+![Throne Seeker](Assets/Sprites/Readme/tab.png)
+
 ## Getting Started
 
 Here's the list of controls of the game:
