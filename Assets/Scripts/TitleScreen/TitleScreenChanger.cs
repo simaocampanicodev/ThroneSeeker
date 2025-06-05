@@ -34,11 +34,6 @@ public class TitleScreenChanger : MonoBehaviour
         ChangeScene();
     }
 
-    private void OnSpecificInput(InputAction.CallbackContext context)
-    {
-        ChangeScene();
-    }
-
     void ChangeScene()
     {
         if (loadNextScene)
@@ -66,7 +61,6 @@ public class TitleScreenChanger : MonoBehaviour
 
     void LoadSpecificScene(int sceneIndex)
     {
-        // Validate scene index
         if (sceneIndex >= 0 && sceneIndex < SceneManager.sceneCountInBuildSettings)
         {
             SceneManager.LoadScene(sceneIndex);
