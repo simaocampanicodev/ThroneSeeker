@@ -1,6 +1,7 @@
 <a id="readme-top"></a>
 
-![Throne Seeker](Assets/Sprites/Readme/splashcircle.png)
+<div align="center">
+  <img height="350" <a <img src="https://i.ibb.co/xqSQWCnF/splashcircle.png" alt="splashcircle" border="0"></a>
 
 # Throne Seeker
 
