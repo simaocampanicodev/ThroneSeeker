@@ -1,11 +1,10 @@
 <a id="readme-top"></a>
 
-<div align="center">
-  <img height="350" src="https://cdn.discordapp.com/attachments/1287498270427451392/1377450236363935804/circlesplash.png?ex=68390200&is=6837b080&hm=b11d353d41129443611261b48aa522d48be193705e3d895af0ad773493993e42&"/>
+![Throne Seeker](Assets/Sprites/Readme/splashcircle.png)
 
 # Throne Seeker
 
-*Reclaim the throne, restore the kingdom's peace.*
+_Reclaim the throne, restore the kingdom's peace._
 
 ![Last Commit](https://img.shields.io/github/last-commit/simaocampanicodev/ThroneSeeker?style=flat-square&color=blue) ![Stars](https://img.shields.io/github/stars/simaocampanicodev/ThroneSeeker?style=flat-square&color=yellow) ![Languages](https://img.shields.io/github/languages/count/simaocampanicodev/ThroneSeeker?style=flat-square&color=orange)
 
@@ -13,7 +12,8 @@
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 <br />
-  <a href="https://github.com/simaocampanicodev/ThroneSeeker"><strong>Explore the docs »</strong></a>
+<a href="https://github.com/simaocampanicodev/ThroneSeeker"><strong>Explore the docs »</strong></a>
+
 </div>
 
 ![Throne Seeker](Assets/Sprites/Readme/tab.png)
